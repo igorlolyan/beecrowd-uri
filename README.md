@@ -4,3 +4,4 @@ Soluções de alguns exercícios da [BEECROWD](https://www.beecrowd.com.br/) fei
 
 * [JavaScript](https://github.com/igorlolyan/beecrowd-uri/search?l=JavaScript)
 
+* [PostgreSQL](https://github.com/igorlolyan/beecrowd-uri/search?l=SQL)
